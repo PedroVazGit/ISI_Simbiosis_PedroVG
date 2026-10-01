@@ -280,6 +280,12 @@ FR-017 se conserva para no perder el identificador histórico, pero su estado es
 | --- | --- | --- | --- | --- | --- | --- |
 | NFR-07 |NFR-Q (Eficiencia; Escalabilidad; Mantenibilidad) |La plataforma mantendrá los objetivos de capacidad y rendimiento definidos para la primera versión sin intervención manual del personal de la organización.| G | -  | Prueba de carga automatizada con 100 usuarios concurrentes y 10 operaciones/s durante 30 min; comprobar mediante registros de monitorización, ausencia de intervención manual. | - |
 |NFR-001|NFR-Q (Disponibilidad)|La plataforma alcanzará una disponibilidad mínima del 99,5% en cada mes natural|G|-|Medida mediante comprobaciones externas cada cinco minutos|A3 s1.1|
+|NFR-002|NFR-R (Regulaciones y estándares)|La plataforma no debe tratar datos de salud sin antes documentar la base jurídica que le permite acceder a los mismos|G|-|Inspección|A3 s1.1|
+|NFR-003|NFR-Q (Disponibilidad)|La plataforma garantizará una disponibilidad total las 24 horas todos los días.|G|-|Inspección|DVA s3.3|
+|NFR-004|NFR-Q (Rendimiento)|La plataforma deberá completar el 95% de las operaciones de inicio de sesión, consulta del perfil, búsqueda de recetas, consulta de recetas y consulta del foro en un máximo de dos segundos|G|-|Pruebas de rendimiento con 100 usuarios y mínimo 30 operaciones por segundo durante 30 minutos|ATO s2.1.2|
+|NFR-005|NFR-Q (Rendimiento)|La plataforma deberá completar el 95% de las operaciones de publicación de recetas, comentarios o mensajes en un máximo de 3 segundos|G|-|Pruebas de rendimiento con 100 usuarios y mínimo 30 operaciones por segundo durante 30 minutos|ATO s2.1.2|
+|NFR-006|NFR-Q (Compatibilidad y Portabilidad)|La plataforma debe funcionar correctamente en navegadores habituales (Chrome, Safari, ...)|G|-|Inspección|A3 s7.4|
+
 
 Categorías y atributos: 
 1) Requisitos de calidad (NFR-Q): Rendimiento, Usabilidad, Seguridad, Fiabilidad, Disponibilidad, Modificabilidad, Portabilidad, Eficiencia, Escalabilidad, Verificabilidad / Testabilidad, Robustez, Seguridad funcional (safety), Integridad, Reusabilidad, Instalabilidad.
