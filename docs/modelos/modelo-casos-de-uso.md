@@ -33,7 +33,7 @@ Registra los roles externos que participan en las funciones representadas. Un ac
 
 Mantén los mismos nombres en las tablas, los diagramas y las descripciones.
 
-[Si existen generalizaciones, identifica el actor general y los actores especializados. Explica qué relación existe entre ellos. Puedes hacer referencia a un diagrama adicional de actores si facilita la lectura. Si no utilizas generalizaciones, indícalo.]
+Usuario registrado es una especialización de Usuario. Disponer de una cuenta no significa haber iniciado sesión.
 
 ## 3 Casos de uso
 
