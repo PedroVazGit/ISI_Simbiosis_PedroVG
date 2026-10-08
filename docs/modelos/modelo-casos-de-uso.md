@@ -28,7 +28,8 @@ Registra los roles externos que participan en las funciones representadas. Un ac
 
 | Nombre del actor | Rol que representa |
 | --- | --- |
-| [Nombre] | [Describe el rol externo.] |
+| Usuario | Persona que interactúa con Proyecto Simbiosis |
+| Usuario registrado | Persona que dispone de una cuenta en la plataforma |
 
 Mantén los mismos nombres en las tablas, los diagramas y las descripciones.
 
