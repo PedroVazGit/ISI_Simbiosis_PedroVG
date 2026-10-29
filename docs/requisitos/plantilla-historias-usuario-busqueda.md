@@ -15,7 +15,7 @@
 
 ## Épica de búsqueda
 
-Como [rol], quiero [capacidad amplia], para [beneficio].
+Como usuario registrado, quiero buscar recetas con texto e ingredientes que deseo incluir o excluir, para encontrar una receta que se ajuste a lo que quiero preparar.
 
 **Estado:** descompuesta en US-01, US-02 y US-03. Conserva la necesidad conjunta.
 
@@ -25,11 +25,11 @@ Como [rol], quiero [capacidad amplia], para [beneficio].
 
 ## US-01
 
-**Título:** [Capacidad]
+**US 01 Buscar mediante una palabra o frase** 
 
-Como [rol], quiero [capacidad], para [beneficio].
+Como usuario registrado, quiero buscar recetas mediante una palabra o frase, para localizar recetas relacionadas con lo que quiero preparar.
 
-**Fuentes:** UR-08; UC-21; [FR principal]; acta, [apartado pertinente].
+**Fuentes:** UR-08; UC-21; FR-085; acta, [apartado pertinente].
 
 ### Criterios de aceptación
 
